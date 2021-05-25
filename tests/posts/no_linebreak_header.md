@@ -1,0 +1,51 @@
+Post bot turning on. Removed a carriage return between the very first URL linking to the parts list, and the column headers
+
+____
+
+[PCPartPicker Part List](https://pcpartpicker.com/list/QxkDgJ)
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel Core i9-9900K 3.6 GHz 8-Core Processor](https://pcpartpicker.com/product/jHZFf7/intel-core-i9-9900k-36ghz-8-core-processor-bx80684i99900k) | Purchased For $529.99 
+**Motherboard** | [Asus ROG MAXIMUS XI HERO (WI-FI) ATX LGA1151 Motherboard](https://pcpartpicker.com/product/zvQG3C/asus-rog-maximus-xi-hero-wi-fi-atx-lga1151-motherboard-rog-maximus-xi-hero-wi-fi) | Purchased For $289.99 
+**Memory** | [G.Skill Trident Z RGB 32 GB (2 x 16 GB) DDR4-3200 CL14 Memory](https://pcpartpicker.com/product/WtjWGX/gskill-tridentz-rgb-32gb-2-x-16gb-ddr4-3200-memory-f4-3200c14d-32gtzr) | Purchased For $349.99 
+**Storage** | [Samsung 970 Evo 1 TB M.2-2280 NVME Solid State Drive](https://pcpartpicker.com/product/JLdxFT/samsung-970-evo-10tb-m2-2280-solid-state-drive-mz-v7e1t0baw) | Purchased For $227.99 
+**Video Card** | [EVGA GeForce RTX 2080 Ti 11 GB FTW3 ULTRA GAMING Video Card](https://pcpartpicker.com/product/pRXnTW/evga-geforce-rtx-2080-ti-11gb-ftw3-ultra-gaming-video-card-11g-p4-2487-kr) | Purchased For $1349.99 
+**Power Supply** | [SeaSonic PRIME Ultra Titanium 1000 W 80+ Titanium Certified Fully Modular ATX Power Supply](https://pcpartpicker.com/product/NxWfrH/seasonic-prime-ultra-titanium-1000w-80-titanium-certified-fully-modular-atx-power-supply-ssr-1000tr) | Purchased For $259.99 
+**Case Fan** | [Phanteks F140MP 68.09 CFM 140 mm Fan](https://pcpartpicker.com/product/NvKhP6/phanteks-case-fan-phf140mpbkpwm) | Purchased For $14.49 
+**Case Fan** | [Phanteks F140MP 68.09 CFM 140 mm Fan](https://pcpartpicker.com/product/NvKhP6/phanteks-case-fan-phf140mpbkpwm) | Purchased For $14.49 
+**Case Fan** | [Phanteks F140MP 68.09 CFM 140 mm Fan](https://pcpartpicker.com/product/NvKhP6/phanteks-case-fan-phf140mpbkpwm) | Purchased For $14.49 
+**Case Fan** | [Phanteks F140MP 68.09 CFM 140 mm Fan](https://pcpartpicker.com/product/NvKhP6/phanteks-case-fan-phf140mpbkpwm) | Purchased For $14.49 
+**Case Fan** | [Phanteks F140MP 68.09 CFM 140 mm Fan](https://pcpartpicker.com/product/NvKhP6/phanteks-case-fan-phf140mpbkpwm) | Purchased For $14.49 
+**Case Fan** | [Phanteks F140MP 68.09 CFM 140 mm Fan](https://pcpartpicker.com/product/NvKhP6/phanteks-case-fan-phf140mpbkpwm) | Purchased For $14.49 
+**Case Fan** | [Phanteks F120MP 53.3 CFM 120 mm Fan](https://pcpartpicker.com/product/MwPzK8/phanteks-case-fan-phf120mpbkpwm) | Purchased For $14.98 
+**Case Fan** | [Phanteks F120MP 53.3 CFM 120 mm Fan](https://pcpartpicker.com/product/MwPzK8/phanteks-case-fan-phf120mpbkpwm) | Purchased For $14.98 
+**Case Fan** | [Phanteks F120MP 53.3 CFM 120 mm Fan](https://pcpartpicker.com/product/MwPzK8/phanteks-case-fan-phf120mpbkpwm) | Purchased For $14.98 
+**Case Fan** | [Phanteks F120MP 53.3 CFM 120 mm Fan](https://pcpartpicker.com/product/MwPzK8/phanteks-case-fan-phf120mpbkpwm) | Purchased For $14.98 
+**Case Fan** | [Phanteks F120MP 53.3 CFM 120 mm Fan](https://pcpartpicker.com/product/MwPzK8/phanteks-case-fan-phf120mpbkpwm) | Purchased For $14.98 
+**Case Fan** | [Phanteks F120MP 53.3 CFM 120 mm Fan](https://pcpartpicker.com/product/MwPzK8/phanteks-case-fan-phf120mpbkpwm) | Purchased For $14.98 
+**Case Fan** | [Phanteks F120MP 53.3 CFM 120 mm Fan](https://pcpartpicker.com/product/MwPzK8/phanteks-case-fan-phf120mpbkpwm) | Purchased For $14.98 
+**Case Fan** | [Phanteks F120MP 53.3 CFM 120 mm Fan](https://pcpartpicker.com/product/MwPzK8/phanteks-case-fan-phf120mpbkpwm) | Purchased For $14.98 
+**Custom**| Bitspower G1/4 Black Sparkle Enhance Fittings x12| $71.40 
+**Custom**| Bitspower G1/4 Black Sparkle 90° Adapter x2| $31.90 
+**Custom**| EK HD PETG Tubing 1000mm| $5.99 
+**Custom**| Hardware Labs GTX 560 Rad White| $169.00 
+**Custom**| Hardware Labs GTR 480 Rad White| $160.00 
+**Custom**| Hardware Labs GTX 280 Rad White| $96.00 
+**Custom**| Protium 250mm Reservoir| $63.00 
+**Custom**| Protium D5 Pump Top| $56.00 
+**Custom**| Protium D5 Pump Cover| $49.00 
+**Custom**| AquaComputer D5 Pump| $86.00 
+**Custom**| Protium Pump Mount| $17.00 
+**Custom**| Ethereal Single Reservoir Mount| $42.00 
+**Custom**| CaseLabs SMA8-A| Purchased For $997.95 
+**Custom**| Phanteks Halos Lux 140MM PH-FF140RGBA_BK01 (x4)| Purchased For $84.04 
+**Custom**| Phanteks Halos Lux 120mm PH-FF120RGBA_BK01 (x8)| Purchased For $143.92 
+**Custom**| Custom RGB Splitter PCBs|  
+**Custom**| Aluminum Flat Bar 3/4" x 1/8"| Purchased For $7.00 
+**Custom**| Assorted Screws and Fasteners| Purchased For $8.00 
+**Custom**| EK-Velocity RGB - Nickel + Plexi| $99.99 
+**Custom**| EK-Vector RTX 2080ti RGB - Nickel + Plexi| $159.99 
+**Custom**| Demciflex air filters for all openings| Purchased For $98.60 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | **Total** | **$5661.50**
+ | Generated by [PCPartPicker](https://pcpartpicker.com) 2021-01-21 22:22 EST-0500 |
